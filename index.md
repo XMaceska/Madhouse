@@ -6,7 +6,7 @@ ref: index
 permalink: /
 ---
  
-{% include image.html url="images/logo_CB.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/logo_CB.png" caption="." max_width="300px" align="right" %}
 
 Czech psychedelic preachers, Madhouse Express, landed on the psych stage on May 2015. <br>
 
