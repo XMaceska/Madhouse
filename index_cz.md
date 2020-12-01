@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O tomoto webu
+title: O
 lang: cz
 ref: index
 permalink: index_cz/
