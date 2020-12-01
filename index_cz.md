@@ -6,19 +6,21 @@ ref: index
 permalink: index_cz/
 ---
 
-{% include image.html url="images/ja.png" caption="ja" max_width="300px" align="right" %}
+{% include image.html url="images/Logo_CB.png" caption="." max_width="300px" align="right" %}
 
-Hlavním cílem této webové stránky je stručné shrnutí mých aktivit, kterým se věnuji a prezentovat je komukoliv, koho to případně může zajímat. <br>
+Muzika, Madhouse Express, on the psych stage on May 2015. <br>
 
-Protože se mi zdá, že se toho každý den děje poměrně dost a všechny ty novinky si zapamatovat nedokáži. Napadlo mě vytvořit si osobní stránku, kde právě děj mýho života budu zapisovat. <br>
+Their style is mix of fuzzy, hazy 60s hypnosis, traditional rock´n ´roll in it's rawest form and new experimental elements which together make up their unique and fresh sound on the Czech scene.<br>
 
-Objevit se tady dají projekty, na kterých jsem spolupracoval v průběhu mých studií. Příběhy ze zájmů, kterým se věnuji, ale také stránku ve formě blogu, kde každý měsíc shrnu několik zajímavých věcí, který jsem zažil, objevil a s radostí se o ně podělím.<br>
-
-Zrovna teď nyní mi je 26 let, studuji a žiji v Praze. 
-
-## Kontakt
-
-Email: [maceskad@natur.cuni.cz]
+Live you can enjoy impressive stage show including catchy bass lines, forceful drum beats, intense guitar riffs, psychedelic visuals and the dramatic excentric merciless appearance of the singer doing his magic on a synthesizer.<br>
 
 
-[maceskad@natur.cuni.cz]: mailto:maceskad@natur.cuni.cz
+
+## Contact
+
+Email: [email]<br>
+Facebook: [Madhouse Express]
+
+
+[email]: mailto:email@seznam.cz
+[Madhouse Express]: https://www.facebook.com/madhouseexpress
