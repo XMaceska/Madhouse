@@ -1,16 +1,16 @@
-- title: "Projects"
+- title: "GIGS"
   subcategories:
     - subtitle: "3D modeling"
       subhref: "/3D_modeling"
     - subtitle: "Programming"
       subhref: "/Programming"
       
-- title: "Activities"
+- title: "Album"
   subcategories:
     - subtitle: "Road cycling"
       subhref: "/Road_cycling"
 
-- title: "CV"
+- title: "Photo"
   href: "/cv"
 
 

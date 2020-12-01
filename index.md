@@ -6,18 +6,21 @@ ref: index
 permalink: /
 ---
  
-{% include image.html url="images/logo.jpg" caption="me" max_width="300px" align="right" %}
+{% include image.html url="images/logo_CB.png" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae <br>
+Czech psychedelic preachers, Madhouse Express, landed on the psych stage on May 2015. <br>
 
-alesuada. Aliquam erat volutpat. Etiam neque. Morbi scelerisque luctus velit. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Ut enim ad mini<br>
+Their style is mix of fuzzy, hazy 60s hypnosis, traditional rock´n ´roll in it's rawest form and new experimental elements which together make up their unique and fresh sound on the Czech scene.<br>
+
+Live you can enjoy impressive stage show including catchy bass lines, forceful drum beats, intense guitar riffs, psychedelic visuals and the dramatic excentric merciless appearance of the singer doing his magic on a synthesizer.<br>
 
 
 
 ## Contact
 
-Email: [email]
-Facebook: [https://www.facebook.com/madhouseexpress]
+Email: [email]<br>
+Facebook: [Madhouse Express]
 
 
 [email]: mailto:email@seznam.cz
+[Madhouse Express]: https://www.facebook.com/madhouseexpress
